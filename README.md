@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @harithamadana
 
-- 👀 I’m interested in data science and android app development
+- I've got multiple interests which makes me an eager learner- and I'll learn just about anything! Be it developing games, developing an app, analysing data, and the list goes on.
 
-- 🌱 I’m currently learning creating complex projects on android studio and I'm hoping to combine my knowledge in data science and android app development one day
+- 🌱 I’m currently learning full stack dev and I'm hoping to improve on my data science skills.
 
-- 💞️ I’m looking to collaborate on any project- most preferably related to data science / developing apps.
+- 💞️ I’m looking to collaborate on any project- currently developig fully functioning websites or mobile applications(androis studio-I know both kotlin and java).
 
 - 📫 How to reach me you can connect with me on linkedin- https://www.linkedin.com/in/harithamadana/   or you can send an email to harithamadana@gmail.com
 

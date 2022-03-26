@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning data analytics and I'm hoping to improve on my data science skills.
 
-- 💞️ I’m looking to collaborate on any project- currently developig fully functioning mobile applications(android studio-I have worked with both kotlin and java).
+- 💞️ I’m looking to collaborate on any project involving java, python and data analytics.
 
 - 📫 How to reach me you can connect with me on linkedin- https://www.linkedin.com/in/harithamadana/   or you can send an email to harithamadana@gmail.com
 
